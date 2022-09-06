@@ -1,0 +1,52 @@
+*{
+    margin:1px;
+    border:0;
+}
+.texto{
+    color:#c1c7c7;
+}
+h3{
+    background: #FFF;
+    font-family: arial;
+    color: #000;
+    size:3px;
+}
+header{
+    margin-block-end: 3%;
+}
+
+body{
+    background: #FFF;
+    color: #3E75C1;
+}
+article{
+    background: #FFF;
+    font-family: arial;
+    color: #3E75C1;
+    text-align: rigth;
+    width: 65%;
+    height: 80%;
+    float:right;
+}
+nav{
+    
+    background: #FFF;
+    font-family: arial;
+    color: #3E75C1;
+    text-align: left; 
+    margin-bottom: 5%; 
+}
+aside{
+    background: #6598DE;
+    font-family: arial;
+    color: #FFF;
+    text-align: left;
+    float:left;
+    width: 30%;
+    height: 80%;
+}
+.contacto{
+    text-align: center;
+    font-size: 110%;
+}
+
